@@ -8,3 +8,7 @@ Pick out the one(s) that look the best and then practice a small transaction wit
 Right now, I'm thinking considering the following platforms.
 - Webull
 - TastyTrade
+
+### Webull
+
+The paper trading (play money, but tracked against the market) makes this an attractve first-try platform.
