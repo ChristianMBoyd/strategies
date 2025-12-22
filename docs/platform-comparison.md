@@ -12,7 +12,7 @@ Webull has shown up as a no-fee (i.e., paid by market makers rather than users) 
 
 Since the paper trading is such an attractive feature, I wanted to call out some restrictions from Webull's documentation.
 - Paper trading is not limited by real-world liquidity.  In principle, you can buy and sell more than exists, and without the market moving against you.
-- "Corporate actions" don't influence paper traded options the same way.  The position is simply closed at market close instead of mimicking the real-world adjustments.s
+- "Corporate actions" don't influence paper traded options the same way.  The position is simply closed at market close instead of mimicking the real-world adjustments.  E.g., a stock split or merger can affect the underlying used for the option and may result in the contract being cleared with cash instead.
 
 
 ## TastyTrade
