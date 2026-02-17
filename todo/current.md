@@ -1,5 +1,10 @@
 # Pressing tasks
 
+## Analyze dividend reinvestment in historic data
+
+See how dividend reinvestment is accounted for in historic data (e.g., the Shiller data).  
+
+A key point to discern is whether reinvested dividends are impactful because of revewed diversification.  I.e., how would an S&P portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?
 
 ## Try out several trading (optoions-focused) platforms
 
