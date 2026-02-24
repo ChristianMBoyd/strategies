@@ -8,6 +8,7 @@ The Shiller data is useful for summarizing the S&P over the past hundred or so y
 - barchart (free 30 day trial, appears to have at least 30-40 years of data)
 - nasdaq has dividend data going back as far as I could tell (I got blocked after two searches though...)
 - databento apparently has a pretty good free period, and reasonable rates after
+- utilize a graph scraper to extract data from graphs/plots online but not exportable (e.g., Google and other free online plotting tools)
 
 
 ## Analyze dividend reinvestment in historic data
