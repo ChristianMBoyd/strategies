@@ -1,5 +1,17 @@
 # Pressing tasks
 
+## Find finer-grained historical data sources
+
+The Shiller data is useful for summarizing the S&P over the past hundred or so years, but lacks the granulity to see which companies were being tracked at the time.  The point here is to collect alternative data sources worth looking into.
+
+**Consider**
+- barchart (free 30 day trial, appears to have at least 30-40 years of data)
+- nasdaq has dividend data going back as far as I could tell (I got blocked after two searches though...)
+- WSJ _should_ have historical data -- looking into them now.
+- databento apparently has a pretty good free period, and reasonable rates after
+- utilize a graph scraper to extract data from graphs/plots online but not exportable (e.g., Google and other free online plotting tools)
+
+
 ## Analyze dividend reinvestment in historic data
 
 See how dividend reinvestment is accounted for in historic data (e.g., the Shiller data).  
