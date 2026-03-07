@@ -12,16 +12,3 @@ A key point to discern is whether reinvested dividends are impactful because of 
 Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc.?
 
 Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So the previous point should be looked at first in case that's straightforward.
-
-
-## Try out several trading (options-focused) platforms
-
-Pick out the one(s) that look the best and then practice a small transaction with each.  Takes notes on what you like/don't like, and pay very close attention to the _total_ transaction costs from open to close in any given position.  In particular, note if those costs scale per traded option or are per-transaction.
-
-Right now, I'm thinking considering the following platforms.
-- Webull
-- TastyTrade
-
-### Webull
-
-The paper trading (play money, but tracked against the market) makes this an attractve first-try platform.
