@@ -25,7 +25,7 @@ The [yfinance package](https://ranaroussi.github.io/yfinance/) simplifies API ac
 
 ### Access date
 
-The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
+The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It was accessed on 03/03/2026.  It appears that data is updated daily.
 
 
 ## Tiingo
@@ -36,4 +36,17 @@ Tiingo offers other APIs, which should be explored and noted here.
 
 ### Access date
 
-The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
+The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It was accessed on 03/06/2026.  It appears that data is updated daily.
+
+
+## barchart
+
+[barchart](https://www.barchart.com/stocks) is a website providing detailed stock (and corporate) history.  It seems, however, that data access is limited to visual charts on their website, rather than via an API, without paid membership.  A similar test of $MSFT start in November 1987, rather than March of 1986.
+
+### Access date
+
+I accessed the $MSFT charts on 03/07/2026, and it appears that it's updated frequently as the previous day's trading data was visible.
+
+### Todo
+
+[The free trial](https://www.barchart.com/get-barchart-premier?ref=histDownload) might be worth exploring for an alternative data source on basic historical data like $MSFT.
