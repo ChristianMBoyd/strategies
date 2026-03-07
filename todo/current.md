@@ -1,39 +1,16 @@
 # Pressing tasks
 
-## Find finer-grained historical data sources
-
-The Shiller data is useful for summarizing the S&P over the past hundred or so years, but lacks the granulity to see which companies were being tracked at the time.  The point here is to collect alternative data sources worth looking into.
-
-**Consider**
-- barchart (free 30 day trial, appears to have at least 30-40 years of data)
-- nasdaq has dividend data going back as far as I could tell (I got blocked after two searches though...)
-- WSJ _should_ have historical data -- looking into them now.
-- databento apparently has a pretty good free period, and reasonable rates after
-- utilize a graph scraper to extract data from graphs/plots online but not exportable (e.g., Google and other free online plotting tools)
-
-
 ## Analyze dividend reinvestment in historic data
 
 See how dividend reinvestment is accounted for in historic data (e.g., the Shiller data).  
 
-A key point to discern is whether reinvested dividends are impactful because of revewed diversification.  I.e., how would an S&P portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?
+### What drives dividend reinvestment growth?
+
+A key point to discern is whether reinvested dividends are impactful because they provide automatic diversifictation.  For example, how would an S&P 500 portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?  On the flip side, could historical dividend reinvestment performance be matched by randomly selling off small fractions of stock each quarter?  From this latter perspective, dividends in and of themselves may be more or less irrelevant if the same effect can be obtained by systematically pruning company holdings within a given portfolio.
 
 
 ## Analyze 30 year time periods to see if 10% returns are stable
 
-Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc.?
+Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc. -- is there another time period over which returns are stable?
 
-Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So the previous point should be looked at first in case that's straightforward.
-
-
-## Try out several trading (options-focused) platforms
-
-Pick out the one(s) that look the best and then practice a small transaction with each.  Takes notes on what you like/don't like, and pay very close attention to the _total_ transaction costs from open to close in any given position.  In particular, note if those costs scale per traded option or are per-transaction.
-
-Right now, I'm thinking considering the following platforms.
-- Webull
-- TastyTrade
-
-### Webull
-
-The paper trading (play money, but tracked against the market) makes this an attractve first-try platform.
+Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So it would be nice to figure out the methodology behind the Shiller data before carrying this analysis out.
