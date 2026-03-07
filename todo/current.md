@@ -11,6 +11,6 @@ A key point to discern is whether reinvested dividends are impactful because the
 
 ## Analyze 30 year time periods to see if 10% returns are stable
 
-Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc.?
+Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc. -- is there another time period over which returns are stable?
 
-Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So the previous point should be looked at first in case that's straightforward.
+Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So it would be nice to figure out the methodology behind the Shiller data before carrying this analysis out.
