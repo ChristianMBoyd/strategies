@@ -17,3 +17,12 @@ The local xls file may be slightly altered due to formatting column names or rem
 ### Access date
 
 This data appears to be kept up-to-date within a month or so at the time of accessing.  The data being analyzed was retrieved in late December, so that it includes S&P data from Dec. 1st.
+
+
+## yfinance
+
+The [yfinance package](https://ranaroussi.github.io/yfinance/) simplifies API access to Yahoo's financial data.  A test of $MSFT provided 40 years of history without any issue.  More features should be explored, and the utility of the alternative data noted here.
+
+### Access date
+
+The current data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
