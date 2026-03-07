@@ -50,3 +50,14 @@ I accessed the $MSFT charts on 03/07/2026, and it appears that it's updated freq
 ### Todo
 
 [The free trial](https://www.barchart.com/get-barchart-premier?ref=histDownload) might be worth exploring for an alternative data source on basic historical data like $MSFT.
+
+
+## Nasdaq
+
+[Nasdaq](https://www.nasdaq.com/) provides a lot of stock data in chart form.  They appear to also have fine-grained, all-history data on dividend payouts, although _I was immediately blocked_ for accessing this one day.  They seem to block any systematic search, so this may only be a good reference for data that seems unreliable/spotty in other sources.
+
+Curiously, the data appears restricted on Nasdaq's charts.  Selecting "all" only shows price history back to August 1992.  The dividend history, however, appears to cover all of the ticker's history (i.e., it's not limited by the chart range).
+
+### Access date
+
+As of writing this, I've accessed the Nasdaq site on 03/07/2026.
