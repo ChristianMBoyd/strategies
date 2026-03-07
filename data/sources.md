@@ -25,4 +25,15 @@ The [yfinance package](https://ranaroussi.github.io/yfinance/) simplifies API ac
 
 ### Access date
 
-The current data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
+The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
+
+
+## Tiingo
+
+[Tiingo's EOD stock data](https://www.tiingo.com/documentation/end-of-day) is available through an API, using an acces token stored locally.  The stock data seems to more or less conform to the type returned by yfinance, or available in Yahoo's finance data.  A similar test of $MSFT showed the same date ranges from 03/13/1986 through 03/03/2026, with discrepancies on the order of $0.01/day when compared to the yfinance data.
+
+Tiingo offers other APIs, which should be explored and noted here.
+
+### Access date
+
+The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It appears that data is updated daily.
