@@ -4,7 +4,9 @@
 
 See how dividend reinvestment is accounted for in historic data (e.g., the Shiller data).  
 
-A key point to discern is whether reinvested dividends are impactful because of revewed diversification.  I.e., how would an S&P portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?
+### What drives dividend reinvestment growth?
+
+A key point to discern is whether reinvested dividends are impactful because they provide automatic diversifictation.  For example, how would an S&P 500 portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?  On the flip side, could historical dividend reinvestment performance be matched by randomly selling off small fractions of stock each quarter?  From this latter perspective, dividends in and of themselves may be more or less irrelevant if the same effect can be obtained by systematically pruning company holdings within a given portfolio.
 
 
 ## Analyze 30 year time periods to see if 10% returns are stable
