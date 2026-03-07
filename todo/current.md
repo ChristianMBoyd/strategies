@@ -14,3 +14,12 @@ A key point to discern is whether reinvested dividends are impactful because the
 Based on a few checks, it looks like the S&P 500 returns 10% annualized returns over periods greater than 30 years.  It would be interesting to break this down at the resolution of the Shiller data to see if there are anomalies.  Further, what does it look like if we instead slice by 35 years, 40 years, 45 years, etc. -- is there another time period over which returns are stable?
 
 Ideally, this would include the dividend re-investment at a higher level of accuracy than things are done currently.  So it would be nice to figure out the methodology behind the Shiller data before carrying this analysis out.
+
+
+## Investigate reliable source(s) for historical corporate actions
+
+Ideally, I'd have data on historical mergers, acquisitions, and share offerings/re-purchases covering the historical stock data I'm analyzing.  I should find some reliable historical sources of data, at least at the level of quarterly reports.
+
+Check out:
+- [EDGAR](https://www.sec.gov/edgar/search/) and its [API](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)
+- ...
