@@ -39,25 +39,37 @@ Tiingo offers other APIs, which should be explored and noted here.
 The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It was accessed on 03/06/2026.  It appears that data is updated daily.
 
 
-## barchart
+## EDGAR
 
-[barchart](https://www.barchart.com/stocks) is a website providing detailed stock (and corporate) history.  It seems, however, that data access is limited to visual charts on their website, rather than via an API, without paid membership.  A similar test of $MSFT start in November 1987, rather than March of 1986.
+EDGAR's CIK data was mostly downloaded from the web.  Some reference or test filing data is TBD.
 
 ### Access date
 
+I downloaded CIK and CIK<->ticker data on 03/08/2026.
+
+
+## Sources not stored within this directory
+
+
+### barchart
+
+[barchart](https://www.barchart.com/stocks) is a website providing detailed stock (and corporate) history.  It seems, however, that data access is limited to visual charts on their website, rather than via an API, without paid membership.  A similar test of $MSFT start in November 1987, rather than March of 1986.
+
+#### Access date
+
 I accessed the $MSFT charts on 03/07/2026, and it appears that it's updated frequently as the previous day's trading data was visible.
 
-### Todo
+#### Todo
 
 [The free trial](https://www.barchart.com/get-barchart-premier?ref=histDownload) might be worth exploring for an alternative data source on basic historical data like $MSFT.
 
 
-## Nasdaq
+### Nasdaq
 
 [Nasdaq](https://www.nasdaq.com/) provides a lot of stock data in chart form.  They appear to also have fine-grained, all-history data on dividend payouts, although _I was immediately blocked_ for accessing this one day.  They seem to block any systematic search, so this may only be a good reference for data that seems unreliable/spotty in other sources.
 
 Curiously, the data appears restricted on Nasdaq's charts.  Selecting "all" only shows price history back to August 1992.  The dividend history, however, appears to cover all of the ticker's history (i.e., it's not limited by the chart range).
 
-### Access date
+#### Access date
 
 As of writing this, I've accessed the Nasdaq site on 03/07/2026.
