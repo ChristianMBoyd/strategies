@@ -41,11 +41,11 @@ The $MSFT test data started on 03/13/1986 and ended on 03/03/2026.  It was acces
 
 ## EDGAR
 
-EDGAR's CIK data was mostly downloaded from the web.  Some reference or test filing data is TBD.
+EDGAR is the SEC's electronic data system (read more [here](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data)).  EDGAR's CIK data was mostly downloaded from the web.  Some reference or test filing data is TBD.
 
 ### Access date
 
-I downloaded CIK and CIK<->ticker data on 03/08/2026.
+I downloaded CIK and CIK<->ticker data on 03/08/2026.  Much of the $MSFT test data was accessed on 03/09/2026.
 
 
 ## Sources not stored within this directory
