@@ -1,7 +1,7 @@
 # Data sources
 
 
-## shiller_sp500.xls -- Robert Shiller's historical analysis of the S&P 500
+## Robert Shiller's historical analysis of the S&P 500
 
 This data is discussed in depth on [Shiller's webpage](https://shillerdata.com/) and is available through a downloadable link.  
 
