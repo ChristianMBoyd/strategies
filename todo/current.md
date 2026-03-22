@@ -1,10 +1,6 @@
 # Pressing tasks
 
-## Analyze dividend reinvestment in historic data
-
-See how dividend reinvestment is accounted for in historic data (e.g., the Shiller data).  
-
-### What drives dividend reinvestment growth -- periodic diversification or value returned to investors?
+## Consider what drives dividend reinvestment growth -- periodic diversification or value returned to investors?
 
 A key point to discern is whether reinvested dividends are impactful because they provide automatic diversifictation.  For example, how would an S&P 500 portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?  On the flip side, could historical dividend reinvestment performance be matched by randomly selling off small fractions of stock each quarter?  From this latter perspective, dividends in and of themselves may be more or less irrelevant if the same effect can be obtained by systematically pruning company holdings within a given portfolio.
 
