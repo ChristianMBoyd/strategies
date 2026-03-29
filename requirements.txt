@@ -116,7 +116,6 @@ rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rich==14.3.3
 rpds-py==0.30.0
-sec-downloader==0.11.2
 sec-edgar-downloader==5.1.0
 sec-parser==0.58.1
 Send2Trash==1.8.3
