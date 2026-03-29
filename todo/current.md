@@ -7,9 +7,9 @@ A key point to discern is whether reinvested dividends are impactful because the
 
 ## Consider dollar cost average historical returns vs. comparing initial and final S&P 500 values
 
-One thing I see in the historical CAGR calculations is that there are certain time periods where you cannot recover your losses through time in the market.  For example, investing at the peak before the stock collapse triggering the great depression (~1930) always brings down your portfolio (essentially unchanged even for 80 year investment horizons).
+One thing I see in the historical CAGR calculations is that there are certain time periods where you cannot reach historical average returns through time in the market.  For example, investing at the peak before the stock collapse triggering the great depression (~1930) always brings down your portfolio (essentially unchanged even for 80 year investment horizons).
 
-I'm sure it'll involve more work to track the investment over time, but I would want to see the historical returns for a dollar cost averaged investment strategy.  For example, it looks like investment periods over 30 years in the current historical CAGR analysis more or less lock in similar returns.  Does the dollar-cost averaged approach take a substantialy longer time in the market, or does an additional ~10 or so years prevent locked-in losses like those for investments right before the great depression?
+I'm sure it'll involve more work to track the investment over time, but I would want to see the historical returns for a dollar cost averaged investment strategy.  For example, it looks like investment periods over 30 years in the current historical CAGR analysis more or less lock in similar returns.  Does the dollar-cost averaged approach take a substantially longer time in the market, or does an additional ~10 or so years prevent locked-in losses like those for investments right before the great depression?  If nothing else, I imagine this is the more typical investment scenario, vs. the lump-sum analysis I'm currently considering.
 
 
 ## Parse pre-XBRL EDGAR data
