@@ -1,5 +1,6 @@
 # Pressing tasks
 
+
 ## Consider what drives dividend reinvestment growth -- periodic diversification or value returned to investors?
 
 A key point to discern is whether reinvested dividends are impactful because they provide automatic diversifictation.  For example, how would an S&P 500 portfolio compare if dividends were reinvested back into the dividend paying stock vs. reinvested back into the broader S&P?  On the flip side, could historical dividend reinvestment performance be matched by randomly selling off small fractions of stock each quarter?  From this latter perspective, dividends in and of themselves may be more or less irrelevant if the same effect can be obtained by systematically pruning company holdings within a given portfolio.
@@ -36,3 +37,13 @@ Beyond the historical Shiller data, it'd be interesting to look into how well in
 ### Consider finding sufficient data to calculate a custom inflation metric
 
 If historical data is readily available on home prices, consumer goods, etc., it would be interesting to see how custom ratios affect the interpretation of real returns in the Shiller data or other histirocal data.
+
+
+## Try to better understand stock returns
+
+**Note**: This ties into the analysis of real returns, so this can be prioritized afterward.  
+
+I'm curious as to why stocks seem to perform so well in real terms over time compared to bonds.  For example, why do we expect--alternatively, _do we_ expect--a diversified stock portfolio to do so much better than a bond portfolio.  Is it truly the CAPM explanation of risk, where an equally "risky"--or "volatile"--bond portfolio should have similar returns?  Or is there something else at play, that causes equities are seen as long-term performers vs. bond-like investments.  I would particularly like to answer the following question.  
+_If stocks are known to outperform bond-like instruments and more effectively protect against inflation, then why isn't this performance priced-in?_
+
+I suspect this analysis will be a bit of a rabbit hole, and it might make sense for this to go in my notes vs. "strategies," but I would like some technical analysis in addition to reading.  I see a goal of this task to be creating smaller, concrete actions I can take rather than solving everything at once.
