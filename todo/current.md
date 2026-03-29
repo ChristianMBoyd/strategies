@@ -21,3 +21,18 @@ Since this historical data goes back to 1994, and contains comparisons to 1993 d
 ### No existing python parsers found yet
 
 I should broaden my search for non-python systems, libraries, or databases that have parsed the old EDGAR SEC filings (pre_XBRL) into a structured data format.  If nothing comes up in the broadened search, the only way to reliably parse these historical filings may be to create something myself.
+
+
+## Perform CAGR calculations in real (inflation-adjusted) terms
+
+As I'm reading Shiller's _Irrational Exuberance_, he constantly emphasizes the importance of historical analysis in real terms.  I've personally been slightly skeptical of the accuracy in historical calculations of values w/r/t "real" or inflation-adjusted returns, but this is definitely worth learning more about.
+
+
+## Look into CPI and historical inflation-adjusted calculations
+
+Beyond the historical Shiller data, it'd be interesting to look into how well inflation metrics like the CPI capture the relative increase or decrease in consumer spending power over time. I'm particularly interested in how housing affordability has been tracked, and whether the relative ratios of various inflation metrics vary over time or have been fixed historically as a reference point.
+
+
+### Consider finding sufficient data to calculate a custom inflation metric
+
+If historical data is readily available on home prices, consumer goods, etc., it would be interesting to see how custom ratios affect the interpretation of real returns in the Shiller data or other histirocal data.
